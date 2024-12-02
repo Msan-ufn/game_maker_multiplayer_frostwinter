@@ -1,0 +1,14 @@
+Buffer Data Type Constant Constant 	Description 	Datatype Returned
+buffer_u8 	An unsigned, 8bit integer. This is a positive value from 0 to 255. 	int32
+buffer_s8 	A signed, 8bit integer. This can be a positive or negative value from -128 to 127 (0 is classed as positive). 	int32
+buffer_u16 	An unsigned, 16bit integer. This is a positive value from 0 - 65,535. 	int32
+buffer_s16 	A signed, 16bit integer. This can be a positive or negative value from -32,768 to 32,767 (0 is classed as positive). 	int32
+buffer_u32 	An unsigned, 32bit integer. This is a positive value from 0 to 4,294,967,295. 	int64
+buffer_s32 	A signed, 32bit integer. This can be a positive or negative value from -2,147,483,648 to 2,147,483,647 (0 is classed as positive). 	int32
+buffer_u64 	An unsigned 64bit integer. This is a positive value from 0 to 18,446,744,073,709,551,615. 	int64
+buffer_f16 	A 16bit float. This can be a positive or negative value within the range of +/- 65504. 	number (real)
+buffer_f32 	A 32bit float. This can be a positive or negative value within the range of +/-16777216. 	number (real)
+buffer_f64 	A 64bit float. 	number (real)
+buffer_bool 	A boolean value, can only be either 1 or 0 (true or false). It is stored in a single byte (8bit) 	int32
+buffer_string 	A string of any size, including a final null terminating character 	string
+buffer_text 	A string of any size, without the final null terminating character 	string

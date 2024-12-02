@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sscr_GLOBAL_ENUMS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sscr_GLOBAL_ENUMS",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
