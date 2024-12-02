@@ -1,0 +1,5 @@
+enum SGE_NETWORK{
+	JOIN,
+	UPDATE,
+	DISCONNECT,
+}
