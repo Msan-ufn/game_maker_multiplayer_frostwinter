@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sscr_GLOBAL_VARS_AND_FUNCTIONS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sscr_GLOBAL_VARS_AND_FUNCTIONS",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
