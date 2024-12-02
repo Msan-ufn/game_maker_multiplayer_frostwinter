@@ -1,0 +1,52 @@
+{
+  "$GMTileSet":"",
+  "%Name":"stile_tileset_collision",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[1,10,11,2,18,9,0,12,19,0,8,15,3,20,23,0,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":35,
+    "SerialiseWidth":71,
+    "TileCompressedData":[
+      -13,0,1,1,-58,0,-9,1,-3,0,1,1,-70,0,1,1,-70,0,1,1,-70,0,1,1,-58,0,2,4,5,-3,0,2,6,7,-5,0,1,1,-70,0,1,
+      1,-70,0,1,1,-60,0,5,16,268435472,0,1610612752,1073741840,-5,0,1,1,-60,0,5,536870928,805306384,0,1879048208,
+      1342177296,-207,0,2,805306395,536870939,-3,0,2,13,268435469,-62,0,1,1879048219,-4,0,4,1342177307,0,536870925,
+      805306381,-62,0,6,1610612763,0,268435483,27,0,1073741851,-1485,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"stile_tileset_collision",
+  "out_columns":6,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Animation Curves",
+    "path":"folders/Animation Curves.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"sspr_tileset_collision",
+    "path":"sprites/sspr_tileset_collision/sspr_tileset_collision.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[
+      0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
+    ],
+    "SerialiseFrameCount":1,
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":32,
+}

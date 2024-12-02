@@ -1,0 +1,39 @@
+KNOWN BUGS
+
+
+
+//////BUG#001 [severity major/minor, gameplay]
+player holding up on ceiling will continously 'jump' , staying stuck on the ceiling 
+and jumping soon after leaveing ceiling, can be used as a mechanic 
+
+
+
+//////BUG#002 [severity minor, graphic]
+other players show as 1 pixel off ground on client side
+
+
+//////BUG#003 [severity minor, graphic] probably related to #001
+other players show as 'jumping up ' when going up slopes on client view
+
+[SOLVED] /////BUG#004 [severity CRITICAL, server crash ]
+after adding the firewood server crashes when 2 people try to join 
+works as intended with only 1 person 
+package sent is missing something as if it were deleted before being sent
+
+/////BUG#005 [ severity low, graphic]
+tree listen set scale dont set scale correctly , when hitting it first time scale 
+changes to another one , unsure why
+
+
+KNOWN ISSUES
+
+ISSUE#001 [severity high, gameplay]
+players logging later on the match will not be in sync with others 
+(ie, cut trees will not be cut for new player) 
+this happens because trees are updated on hit 
+a more robust solution may be needed but time constrains will probably hold it back 
+
+temprorary soution would be force all players be connected the moment the game starts
+
+SOLVED
+
